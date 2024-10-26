@@ -1,5 +1,5 @@
 variable "ami" {
-  default = "ami-0ddc798b3f1a5117e "
+  default = "ami-02d7fd1c2af6eead0"
   description = "amazon machine image"
   type = string
 }
